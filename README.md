@@ -9,4 +9,4 @@ To read about who we are and what we stand for, check out our [Values Statement 
  - Join us for  an event 
  
 # How Thrive Mentoring works
-Our 12-week mentoring program brings together software makers for guided mentoring experiences. Check our Overview doc in this repo to find out exactly how we do it!
+Our 12-week mentoring program brings together software makers for guided mentoring experiences. Check our [Overview](https://github.com/Project-Thrive/PeerCommunity/blob/main/Welcome%20to%20Project%20Thrive%20(1).pdf) in this repo to find out exactly how we do it!
